@@ -126,3 +126,6 @@ Node'u yeniden başlatma
 ```bash
 docker restart privanode
 ```
+## 🔍 Stake ve Diğer İşlemler
+
+Bu [sitedeki](https://www.privasea.ai/privanetix-node) 3. adım ve sonrasını kontrol ederek geri kalan bilgilere ulaşabilirsiniz. Şuan ilk iki adımı tamamladık.
