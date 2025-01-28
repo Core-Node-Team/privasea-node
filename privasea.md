@@ -107,6 +107,14 @@ KEYSTORE_PASSWORD=<şifreniz> && docker run -d --name privanode \
 privasea/acceleration-node-beta:latest
 ```
 
+### 🔟 Cüzdan Dosyasını Yedekleme
+
+En son bu dizindeki wallet_keystore dosyasını yedeklemeyi unutmayın
+
+⬇
+
+$HOME/privanode/config/wallet_keystore
+
 ## 🔍 Kontrol Komutları
 
 Node durumunu kontrol etme
