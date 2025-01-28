@@ -91,7 +91,7 @@ mv $HOME/privanode/config/UTC--* $HOME/privanode/config/wallet_keystore
 ### 9️⃣ Dashboard Ayarları
 
 1. [Dashboard](https://deepsea-beta.privasea.ai/privanetixNode) sayfasına gidin
-2. Cüzdanınızı bağlayın
+2. Ödül cüzdanınızı bağlayın
 3. "Set up now" butonuna tıklayın
 4. Komisyon oranını belirleyin
 5. Node adresinizi girin ve onaylayın
