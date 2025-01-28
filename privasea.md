@@ -62,11 +62,14 @@ newgrp docker
 
 ### 6️⃣ Node Kurulumu
 
-```bash
-# Node imajını çekelim
-docker pull privasea/acceleration-node-beta:latest
+Node imajını çekelim
 
-# Çalışma dizini oluşturalım
+```bash
+docker pull privasea/acceleration-node-beta:latest
+```
+Çalışma dizini oluşturalım
+
+```bash
 mkdir -p ~/privanode/config && cd ~/privanode
 ```
 
